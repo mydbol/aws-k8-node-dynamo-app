@@ -10,3 +10,7 @@ has one rout the pull a value from a database
 <li>set up a account for database
 <li>create a lambda node app
 <li>attach an api gateway
+
+<li>build a pipline with jenkins for build and deploy
+<li>create a container
+<li>create a kubernetes container
